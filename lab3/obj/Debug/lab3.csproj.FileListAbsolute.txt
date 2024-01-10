@@ -1,0 +1,12 @@
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/bin/Debug/lab3.exe
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/bin/Debug/lab3.pdb
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/bin/Debug/Newtonsoft.Json.dll
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/bin/Debug/System.Data.SQLite.dll
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/bin/Debug/Newtonsoft.Json.xml
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/bin/Debug/System.Data.SQLite.xml
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/obj/Debug/lab3.csproj.AssemblyReference.cache
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/obj/Debug/lab3.csproj.CoreCompileInputs.cache
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/obj/Debug/lab3.csproj.CopyComplete
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/obj/Debug/lab3.exe
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/obj/Debug/lab3.pdb
+/Users/macbookair132014/Desktop/untitled folder/lab3/lab3/obj/Debug/lab3.exe.config
